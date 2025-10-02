@@ -1,8 +1,4 @@
-# Cheatsheet des biais cognitifs 🎭
-
-Ce document regroupe une sélection de biais cognitifs.  
-
----
+# Biais cognitifs 🎭
 
 ## Effet « Less is more »
 
@@ -239,5 +235,3 @@ Nous expliquons nos propres erreurs par des causes externes, et celles des autre
 
 Nous surestimons les facteurs internes et sous-estimons les contextes dans les comportements d’autrui.  
 *Exemple : penser qu’un collègue est « désorganisé » plutôt que considérer qu’il a trop de tâches simultanées.*
-
----
