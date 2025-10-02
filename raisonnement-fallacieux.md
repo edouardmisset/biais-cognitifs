@@ -1,6 +1,16 @@
-# 🎯 Objectif
+---
+title: "Raisonnement fallacieux 🎭"
+description: "Panorama des fallacies (raisonnements fallacieux)"
+tags: ["psychologie", "biais", "cognition", "raisonnement", "logique", "erreurs de raisonnement"]
+date: 2025-10-01
+lastUpdated: 2025-10-02
+authors:
+  name: Edouard Misset
+  picture: <https://avatars.githubusercontent.com/u/63284636?s=200>
+---
 
-Présenter un panorama de fallacies (raisonnements fallacieux), c’est-à-dire des formes de raisonnement trompeuses ou invalides.
+Présenter un panorama de fallacies (raisonnements fallacieux), c’est-à-dire des
+formes de raisonnement trompeuses ou invalides.
 
 ## 🧠 Catégories de raisonnements
 
