@@ -1,4 +1,13 @@
-# Biais cognitifs 🎭
+---
+title: "Biais cognitifs 🎭"
+description: "Collection de biais cognitifs et leurs exemples"
+tags: ["psychologie", "biais", "cognition", "prise-de-décision"]
+date: 2025-10-01
+lastUpdated: 2025-10-02
+authors:
+  name: Edouard Misset
+  picture: https://avatars.githubusercontent.com/u/63284636?s=200
+---
 
 ## Effet « Less is more »
 
